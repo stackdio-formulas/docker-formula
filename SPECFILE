@@ -1,0 +1,7 @@
+title: Docker Salt Formula
+description: Installs and starts docker
+root_path: docker
+components:
+  - title: Docker
+    description: The Docker package and service
+    sls_path: docker
